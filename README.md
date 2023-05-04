@@ -1,2 +1,2 @@
-# Academic-performance-of-students
-Data analytics project on academic  performance of students .Factors that can lead to poor performance and how to increase exam scores and maintain high grades in exams.
+VISUALISATION PROJECT OF REVENUE GENERATED IN THREE CITIES.
+THIS PROJECT SHOWS THE PRODUCTLINE THAT ARE MOSTLY SOLD IN EACH CITY.THIS WILL HELP THE STAKEHOLDERS TO CHOOSE THE QUANTITY OF GOODS TO BE DELIVERED IN EACH CITY AT A PARTICULAR TIME.
